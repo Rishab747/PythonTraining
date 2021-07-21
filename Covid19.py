@@ -1,7 +1,7 @@
 states = [
         {
                 "name": "Punjab",
-                "confirmed": 598455,                                  # List daalni zaroori ??   Indexed hota h dictionary?  How to print , ?
+                "confirmed": 598455,
                 "active": 899,
                 "recovered": 581312
         },
@@ -31,4 +31,4 @@ states = [
         },
 ]
 
-print(states[0])
+print(states())
